@@ -1,4 +1,6 @@
 # vuetestingvideo
+App creada como parte de la presentación de vue-testing en el bootcamp F5 peñascal 22-23.
+Contiene info en la carpeta pildora
 
 ## Project setup
 ```

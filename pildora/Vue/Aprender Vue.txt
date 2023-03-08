@@ -1,0 +1,19 @@
+
+ npm init vue@latest
+ //vue create nombre app es antiguo
+ 
+ https://vuejs.org/
+ https://vuejs.org/tutorial
+ https://vuejs.org/guide
+
+https://www.youtube.com/watch?v=PL-aTHv2L3E&t=1s
+https://discord.gg/vue
+
+
+https://vueschool.io/courses
+https://vueschool.io/courses/learn-how-to-test-vuejs-components
+https://vueschool.io/courses/test-with-jest
+https://vueschool.io/courses/javascript-testing-fundamentals
+
+https://twitter.com/VueDose
+https://twitter.com/vuejs

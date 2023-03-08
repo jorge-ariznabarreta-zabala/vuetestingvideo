@@ -1,0 +1,9 @@
+npm i jest
+vue add unit-jest
+
+npm install @vue/test-utils
+npm install vue-template-compiler vue-jest
+
+https://v1.test-utils.vuejs.org/
+https://jestjs.io/
+
