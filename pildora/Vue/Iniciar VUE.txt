@@ -1,3 +1,0 @@
-npm init vue@latest
-
-vue create nomre-app
