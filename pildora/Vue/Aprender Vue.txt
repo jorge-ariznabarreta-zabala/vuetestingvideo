@@ -1,10 +1,12 @@
 
- npm init vue@latest
- //vue create nombre app es antiguo
- 
+ npm init vue@latest //funciona con vite, pinia,...
+ //vue create nombre app es antiguo funciona sobre Webpack.
+  
  https://vuejs.org/
  https://vuejs.org/tutorial
  https://vuejs.org/guide
+
+
 
 https://www.youtube.com/watch?v=PL-aTHv2L3E&t=1s
 https://discord.gg/vue
@@ -17,3 +19,7 @@ https://vueschool.io/courses/javascript-testing-fundamentals
 
 https://twitter.com/VueDose
 https://twitter.com/vuejs
+
+https://jestjs.io/es-ES/
+Jest Snippets  https://marketplace.visualstudio.com/items?itemName=andys8.jest-snippets
+Jest https://marketplace.visualstudio.com/items?itemName=Orta.vscode-jest

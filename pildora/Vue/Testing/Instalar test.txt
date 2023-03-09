@@ -7,3 +7,4 @@ npm install vue-template-compiler vue-jest
 https://v1.test-utils.vuejs.org/
 https://jestjs.io/
 
+npm run test:unit -- --watchAll --coverage
